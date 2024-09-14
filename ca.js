@@ -1,4 +1,4 @@
-consoleText(['Chào cậu !','Mình không biết cậu còn buồn hay không', 'Cũng không biết làm gì cho cậu vui trở lại', 'Mong cái này sẽ làm tâm trạng cậu tốt hơn', 'Khi nào tâm trạng cậu tốt hơn','thì cậu nhắn "." với mình nhé','Giờ cậu hãy nhấn vào nút bên trên đi'], 'text',['tomato','rebeccapurple','lightblue']);
+consoleText(['Chào đồ đáng yêu của Bát !','Mình yêu cậu rất nhiều...', 'Nhưng mà mình biết phải làm sao bây giờ...', 'Trong chuyện tình cảm mình vẫn còn trẻ con, vẫn còn ngây thơ', 'Những điều mình làm cậu tổn thương bản thân mình cũng thấy đau lòng','Mình cũng muốn thay đổi lắm, thời gian đầu để cậu chịu khổ nhiều rồi','Mình không muốn rời xa cậu, hay đánh mất cậu đâu','Mình xin lỗi cậu','Giờ cậu hãy nhấn vào nút bên trên đi'], 'text',['tomato','rebeccapurple','lightblue']);
 
 function consoleText(words, id, colors) {
     if (colors === undefined) colors = ['#fff'];
