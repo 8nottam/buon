@@ -1,4 +1,4 @@
-consoleText(['Xin chào, người mà Bát yêu','Chúc Cá có 1 ngày hạnh phúc và vui vẻ!', 'bây giờ Cá hãy nhấn vào kia đi'], 'text',['tomato','rebeccapurple','lightblue']);
+consoleText(['Xin chào, người mà Bát yêu','Chúc Cá có 1 ngày hạnh phúc và vui vẻ!','Chúc Cá có 1 ngày hạnh phúc và vui vẻ!','Chúc Cá có 1 ngày hạnh phúc và vui vẻ!','Chúc Cá có 1 ngày hạnh phúc và vui vẻ!','Chúc Cá có 1 ngày hạnh phúc và vui vẻ!','Chúc Cá có 1 ngày hạnh phúc và vui vẻ!','Chúc Cá có 1 ngày hạnh phúc và vui vẻ!','Chúc Cá có 1 ngày hạnh phúc và vui vẻ!','Chúc Cá có 1 ngày hạnh phúc và vui vẻ!','Chúc Cá có 1 ngày hạnh phúc và vui vẻ!','Chúc Cá có 1 ngày hạnh phúc và vui vẻ!', 'bây giờ Cá hãy nhấn vào kia đi'], 'text',['tomato','rebeccapurple','lightblue']);
 
 function consoleText(words, id, colors) {
     if (colors === undefined) colors = ['#fff'];
